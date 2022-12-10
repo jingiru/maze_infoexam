@@ -52,8 +52,8 @@ function to2() {
 
 	function ans()
 	{
-		if(input.value == "라온이")
-			location.href="./page2_raon.html";
+		if(input.value == 15)
+			location.href="./page02_15.html";
 		else
 		{
 			input.style.animation='shake 0.5s';
